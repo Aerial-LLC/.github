@@ -1,11 +1,5 @@
 <h1 align="center">
-
-DraganOS Playbook
-
----
-
-<img src="dragan-dark.png" alt="image" width="1280">
-
+  <img src="https://github.com/DraganOS-playbook/.github/blob/main/profile/dragan-dark.png" alt="DraganOS" width="800"></a>
 </h1>
 
 <div align="center">
