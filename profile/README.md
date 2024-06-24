@@ -15,7 +15,13 @@ DraganOS is a customized version of Windows, designed to be lightweight, stable,
 - 🔧 Integrates the [Dragan Tool](https://github.com/draganos-playbook/dragan-tool) to customize your system further
 
 ## 💻 System Requirements
+- Windows 10 2004 `19045`
+- Windows 10 20H2 `19042`
+- Windows 10 21H1 `19043`
+- Windows 10 21H2 `19044`
 - Windows 10 22H2 `19045`
+- Windows 11 23H2 `22631`
+- Windows 11 24H2 `26100`
 
 ## 🚀 Getting Started
 
