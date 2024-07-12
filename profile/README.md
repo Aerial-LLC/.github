@@ -4,6 +4,11 @@
 
 <div align="center">
 </div>
+<h1 aligh="center">
+  <p align="center">
+    <a href="https://github.com/DraganOS-playbook/.github/profile"><img alt="Release" src="https://github.com/DraganOS-playbook/.github/blob/main/profile/release.svg" /></a>
+</a>
+</p>
 
 DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io).
 
