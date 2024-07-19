@@ -10,7 +10,7 @@
 </a>
 </p>
 
-DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io).
+### DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io).
 
 ## ✨ Key Features
 
