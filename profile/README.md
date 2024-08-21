@@ -10,26 +10,22 @@
 </a>
 </p>
 
-### DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io).
+### DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [ISO](https://dsc.gg/draganos).
 
 ## ✨ Key Features
 
-- 🎯 Easy to use, just drag and drop the playbook into [AME Wizard](https://ameliorated.io)
+- 🎯 Easy to use, just drag and drop the playbook into ISO
 - 🗑 Removes bloatware and unnecessary system components
 - ⚡ Optimizes your system for performance and improved privacy
 
 ## 💻 System Requirements
-- Windows 10 22H2 `19045`
-- Windows 11 22H2 `22621`
 - Windows 11 23H2 `22631`
 
 ## 🚀 Getting Started
 
 Ready to elevate your Windows experience? Follow these simple steps:
 
-1. Download [AME Wizard](https://ameliorated.io) and our playbook from the latest [releases](https://github.com/draganos-playbook/playbook/releases).
-2. Launch the AME Wizard and drag-and-drop the playbook into the interface.
-3. Follow the on-screen instructions to complete the installation.
+1. Download [DraganOS ISO](https://dsc.gg/draganos) .
 
 ## 🤝 Support
 
