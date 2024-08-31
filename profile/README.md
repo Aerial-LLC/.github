@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/DraganOS-playbook/.github/blob/main/profile/lockscreen.jpg" alt="DraganOS" width="800"></a>
+  <img src="https://github.com/DraganOS-LLC/.github/blob/main/profile/DraganOS-11-24H2.png" alt="DraganOS" width="800"></a>
 </h1>
 
 <div align="center">
