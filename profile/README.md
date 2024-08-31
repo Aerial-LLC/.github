@@ -6,7 +6,7 @@
 </div>
 <h1 aligh="center">
   <p align="center">
-    <a href="https://github.com/DraganOS-playbook/.github/profile"><img alt="Release" src="https://github.com/DraganOS-playbook/.github/blob/main/profile/release.svg" /></a>
+    <a href="https://github.com/DraganOS-LLC/.github/profile"><img alt="Release" src="https://github.com/DraganOS-LLC/.github/blob/main/profile/release.svg" /></a>
 </a>
 </p>
 
@@ -19,7 +19,7 @@
 - ⚡ Optimizes your system for performance and improved privacy
 
 ## 💻 System Requirements
-- Windows 11 23H2 `22631`
+- Windows 11 24H2 `26100`
 
 ## 🚀 Getting Started
 
