@@ -22,8 +22,8 @@ Ready to elevate your Windows experience? Follow these simple steps:
 3. Download [Rufus](https://rufus.ie/en/) or [Ventoy](https://ventoy.net/)
 4. Open Rufus or Ventoy app, load ISO into the app.
 5. After everything is loaded, go to reboot in BIOS
-6. Once in the BIOS, navigate to the "Boot" options.
-7. In the Boot menu, locate the "Windows Boot Manager" option.
+6. Once in the BIOS, navigate to the `Boot` options.
+7. In the Boot menu, locate the `Windows Boot Manager` option.
 8. Select your flash drive as the first boot device.
 9. Save the changes and exit the BIOS.
 10. Your PC will restart, and you should boot from the flash drive to start the installation process.
