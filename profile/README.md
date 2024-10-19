@@ -2,29 +2,34 @@
   <img src="https://github.com/Delusion-LLC/.github/blob/main/profile/delu.jpg" alt="DelusionOS" width="800"></a>
 </h1>
 
-### DelusionOS is the ultimate Windows for gaming with low latency and improved performance.
+#### DelusionOS is a custom operating system designed to unlock the full potential of performance and ensure minimal latency in all environments. Ideal for cyber sports gaming, DelusionOS allows users to reach new heights in gameplay by providing unrivaled levels of responsiveness and stability. With this system, you can maximize your gaming experience and enjoy every moment in the virtual world.
 
-## ✨ Key Features
-- 🎯 Easy to use, just drag iso and drop the rufus or ventoy into ISO
-- 🗑 Removes bloatware and unnecessary system components
-- ⚡ Optimizes your system for performance improved and low latency
+Why choose the DelusionOS build?
+
+- Maximum Performance: Our DelusionOS build is optimized for outstanding performance in games and demanding applications. We've implemented advanced technologies and tweaks that allow your system to perform at its best, ensuring a smooth and stable gaming experience.
+
+- Minimal Latency: DelusionOS is designed with a focus on reducing latency, which is critical for cyber sports gaming. We've optimized network and system processes to ensure instant response to your actions, giving you a competitive edge in intense gaming situations.
+
+- Specifically for Cybersports: Our build is designed with the needs of cyber athletes and gamers in mind. DelusionOS includes pre-installed tools and tweaks to help improve your gaming experience, including graphics optimization and resource management.
+
+- User Interface: We paid attention not only to performance, but also to usability. An intuitive interface and thoughtful customizations make it easy to tailor the system to your individual preferences.
+
+- Community and Support: When you choose DelusionOS, you become part of an active community of like-minded people. We offer regular updates and technical support so you can always get the most out of your system.
+
+- Security and stability: DelusionOS provides a high level of security and stability, so you can focus on your game without worrying about possible crashes or threats.
+
+When you choose DelusionOS, you get not just an operating system, but a powerful tool for success in the world of cybersports. Join us and open new horizons in your gaming experience!
+
+### ✨ Key Features:
+
+- Performance Potential: DelusionOS is optimized for maximum performance in games and resource-intensive applications. We've implemented advanced technologies and customizations that allow the system to perform at its best, delivering a smooth and responsive gaming experience.
+
+- Low latency everywhere: One of the key aspects of DelusionOS is minimizing latency. We have extensively optimized network and system processes to reduce response time and ensure instantaneous response to user actions. This is especially important in cyber sports where every millisecond counts.
+
+- Optimized for cyber sports gaming: Our build is designed with the needs of cyber athletes and gamers in mind. Delusion OS includes pre-installed tools and tweaks to help improve the gaming experience, including graphics optimization, resource management, and support for modern gaming technologies.
 
 ## 🤔 What are the system requirements for DelusionOS?
 - The minimum system requirements include: 4GB of RAM, 40GB of available disk space, and a processor that supports 64-bit architecture.
-
-## 🚀 Getting Started
-Ready to elevate your Windows experience? Follow these simple steps:
-
-1. Download [DelusionOS ISO](https://dsc.gg/delusionos) .
-2. Insert the flash drive in USB port PC
-3. Download [Rufus](https://rufus.ie/en/) or [Ventoy](https://ventoy.net/)
-4. Open Rufus or Ventoy app, load ISO into the app.
-5. After everything is loaded, go to reboot in BIOS
-6. Once in the BIOS, navigate to the `Boot` options.
-7. In the Boot menu, locate the `Windows Boot Manager` option.
-8. Select your flash drive as the first boot device.
-9. Save the changes and exit the BIOS.
-10. Your PC will restart, and you should boot from the flash drive to start the installation process.
 
 ## 🤝 Support
 If you need any assistance or have any questions, feel free to reach out to our team. We are here to help!
