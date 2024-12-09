@@ -9,8 +9,7 @@
 - Updates throughout the month
 
 ## 🤖 Support OS
-- Windows - DelusionOS (2023)
-<!-- - Android - DeluxeOS (2030) -->
+- Windows - DelusionOS (2024)
 
 ## 🤝 Support
 If you need any assistance or have any questions, feel free to reach out to our team. We are here to help!
