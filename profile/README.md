@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Delusion-LLC/.github/blob/main/profile/delu.jpg" alt="AerialOS" width="800"></a>
+  <img src="https://github.com/Delusion-LLC/.github/blob/main/profile/wallpaper.jpg" alt="AerialOS" width="800"></a>
 </h1>
 
 ## Aerial LLC - A new era company in operating system performance!
