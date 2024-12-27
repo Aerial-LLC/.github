@@ -9,7 +9,7 @@
 - Updates throughout the month
 
 ## 🤖 Support OS
-- Windows - AerialOS (2024)
+- Windows - AerialOS 11
 
 ## 🤝 Support
 If you need any assistance or have any questions, feel free to reach out to our team. We are here to help!
