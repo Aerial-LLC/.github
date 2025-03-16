@@ -2,8 +2,7 @@
   <img src="https://github.com/Aerial-LLC/.github/blob/main/profile/wallpaper.jpg" alt="AerialOS"></a>
 </h1>
 
-# Aerial LLC - A new era company in operating system performance!
-AerialOS - custom operating system designed to unlock the full potential of performance and ensure minimal latency in all environments. Ideal for cyber sports gaming, AerialOS allows users to reach new heights in gameplay by providing unrivaled levels of responsiveness and stability. With this system, you can maximize your gaming experience and enjoy every moment in the virtual world.
+AerialOS is a competently tuned operating system designed to unlock the full potential of performance and ensure minimal latency in all environments. Ideal for cyber sports gaming, AerialOS allows users to reach new heights in gameplay by providing unrivaled levels of responsiveness and stability. With this system, you can maximize your gaming experience and enjoy every moment in the virtual world.
 
 ## ✨ Why exactly Aerial LLC?
 - 🗑️ Removes bloatware and unnecessary system components
