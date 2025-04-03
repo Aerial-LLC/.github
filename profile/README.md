@@ -10,7 +10,6 @@ AerialOS is a competently tuned operating system designed to unlock the full pot
 - 🔧 Updates throughout the year
 
 ## 🚀 Support OS
-- AerialOS 10 22H2 **unsupported**
 - AerialOS 11 24H2
 
 ## 🤝 Support
