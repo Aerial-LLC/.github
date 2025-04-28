@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://github.com/Aerial-LLC/.github/blob/main/profile/wallpaper.jpg" alt="AerialOS"></a>
+  <img src="https://cdn.discordapp.com/attachments/1316328694091874304/1360250013980037291/K0RAXIO_FILE.jpg?ex=6810d88b&is=680f870b&hm=44714909a57c0d8ba10e20671f55c583248dab07f693c0fd0aa4dc058cbb4eb5&" alt="AerialOS"></a>
 </h1>
 
-**AerialOS** is a competently tuned operating system designed to unlock the full potential of performance and ensure minimal latency in all environments. Ideal for cyber sports gaming, AerialOS allows users to reach new heights in gameplay by providing unrivaled levels of responsiveness and stability. With this system, you can maximize your gaming experience and enjoy every moment in the virtual world.
+**AerialOS** is a literate configured operating system designed to disclose the full potential of performance and provide a minimum delay in all environments. Ideal for anonymity, esports games, streaming. AerialOS allows users to achieve new heights in the gameplay, providing them with them based responsiveness and stability. Using this system, you can maximize your game experience and enjoy every moment in the virtual world.
 
 ## ✨ Why exactly Aerial LLC?
 - **No placebo tweaks** our based is focused on tweaking the best
