@@ -2,12 +2,11 @@
   <img src="https://github.com/user-attachments/assets/c24e7df9-599b-446d-8fd1-cc91735b8caa" alt="AerialOS"></a>
 </h1>
 
-**AerialOS** is a literate configured operating system designed to disclose the full potential of performance and provide a minimum delay in all environments. Ideal for anonymity, esports games, streaming. AerialOS allows users to achieve new heights in the gameplay, providing them with them based responsiveness and stability. Using this system, you can maximize your game experience and enjoy every moment in the virtual world.
+**AerialOS** is a literately tuned operating system that has been in development on Windows 11 for over three years. The goal of the project is to maximize performance and minimize latency in competitive gaming disciplines, cybersport focused.
 
 ## ✨ Why exactly Aerial LLC?
-- **No placebo tweaks** our based is focused on tweaking the best
-- **Integrated over 4000+ registry settings** affecting various system aspects.
-- **Removed over 200+ junk components** for best performance and stability.
+- **Integrated over 3600+ registry settings** affecting various system aspects.
+- **Removed over 520+ junk components** for best performance and stability.
 - **Added Post-Install** which includes files that allow users to control multiple system aspects.
 - **Tell _"Goodbye BSOD / BUGS"_**  We are focused on the stability and quality of work on AerialOS
 
