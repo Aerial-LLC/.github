@@ -12,10 +12,9 @@ The project is distributed on the terms of the license [Attribution-NonCommercia
 ## 🔗 Links
 
 - [AerialOS WEB](https://aerialos.vercel.app/)
-- [AerialOS Tweaking](https://canary.discord.com/channels/1225844707733803108/1255818351935098973/1436986909950738482)
+- [AerialOS Boost](https://discord.gg/aqCNp43rF5)
 - [AerialOS Discord](https://dsc.gg/aerialos/)
-- [AerialOS YouTube](https://youtube.com/@queit_2k)
-- [AerialOS Telegram](https://t.me/+V0rWNhUhu18wMzY6)
-- [AerialOS X (Twitter)](https://x.com/queit_2k)
-- [DonationAlerts](<https://www.donationalerts.com/r/kouishouraxio>)
-- [Donatepay (Only RU)](https://new.donatepay.ru/@1392734)
+- [AerialOS YouTube](https://youtube.com/@aerial_univrs)
+- [AerialOS X (Twitter)](https://x.com/aerial_univrs)
+  - TON `UQC-evHjYkgHD0TcQ5XS9JntTncFCTWioJDwC8-qZIsJplSe`
+  - TRC20 `TTmREZy7ZHeuRMXzm6dYyZJrcxGG4Ztmzk`
